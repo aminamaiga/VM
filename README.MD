@@ -1,6 +1,4 @@
-;;READ ME
-;;Etudiante Aminata MAIGA M1 AIGLE
-
+ Aminata MAIGA
 ..........................................Organisation..........................................
 Ce projet conforte 3 fichiers 
  1- compiler.lisp => permet de compiler le code lisp en asm qui sera charge dans la VM
